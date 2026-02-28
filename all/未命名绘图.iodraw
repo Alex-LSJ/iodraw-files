@@ -159,11 +159,6 @@
             <mxGeometry x="230" y="333" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font color=&quot;#0000cc&quot;&gt;RPM101&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#990099&quot;&gt;MixingSpeed&lt;/font&gt;" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-92">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="1">
-            <mxGeometry x="170" y="413" width="130" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="3eiceg5xXqil0i54TMTS-99" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="494" width="140" height="100" as="geometry" />
         </mxCell>
@@ -177,7 +172,7 @@
         </UserObject>
         <UserObject label="&lt;font color=&quot;#0000cc&quot;&gt;RPM101&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#990099&quot;&gt;MixingSpeed&lt;/font&gt;" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-102">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="1">
-            <mxGeometry x="170" y="574" width="129" height="20" as="geometry" />
+            <mxGeometry x="170" y="574" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
