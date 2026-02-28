@@ -149,6 +149,11 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-99" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-137">
           <mxGeometry width="140" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-153" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3eiceg5xXqil0i54TMTS-99" source="3eiceg5xXqil0i54TMTS-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-100" value="搅拌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-99">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
