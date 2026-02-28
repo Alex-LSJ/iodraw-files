@@ -230,6 +230,14 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-151" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-148">
           <mxGeometry x="130" y="77" width="10" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3eiceg5xXqil0i54TMTS-147" source="3eiceg5xXqil0i54TMTS-152" target="3eiceg5xXqil0i54TMTS-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-156" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-155">
+          <mxGeometry x="-0.479" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="&lt;font color=&quot;#0000cc&quot;&gt;RPM101&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#990099&quot;&gt;MixingSpeed&lt;/font&gt;" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-152">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-147">
             <mxGeometry y="80" width="130" height="20" as="geometry" />
