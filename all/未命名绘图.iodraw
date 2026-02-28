@@ -106,7 +106,7 @@
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="XV101=0%，close" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-92">
+        <UserObject label="RPM101=MixingSpeed" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-92">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-89">
             <mxGeometry y="80" width="110" height="20" as="geometry" />
           </mxCell>
