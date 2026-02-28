@@ -250,7 +250,7 @@
           <mxGeometry x="130" y="820" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-163" value="" style="group" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-162">
-          <mxGeometry x="36" width="140" height="100" as="geometry" />
+          <mxGeometry x="40" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-164" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-163">
           <mxGeometry width="140" height="100" as="geometry" />
@@ -270,6 +270,12 @@
         </UserObject>
         <mxCell id="3eiceg5xXqil0i54TMTS-168" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-149" target="3eiceg5xXqil0i54TMTS-165">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-169" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="680" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-170" value="&lt;font color=&quot;#000000&quot;&gt;Timer≥20s&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="3eiceg5xXqil0i54TMTS-169">
+          <mxGeometry width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
