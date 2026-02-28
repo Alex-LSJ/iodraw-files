@@ -658,7 +658,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-314" value="&lt;font color=&quot;#000000&quot;&gt;人工确认结束&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1753.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="500" y="1751" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-315" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-299" target="3eiceg5xXqil0i54TMTS-305">
           <mxGeometry relative="1" as="geometry" />
