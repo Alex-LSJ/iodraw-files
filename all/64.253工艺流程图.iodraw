@@ -444,7 +444,7 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-237" value="过滤准备(记录现有Tank重量T1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-236">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-238">
+        <UserObject label="VC=OXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-238">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-236">
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
@@ -461,7 +461,7 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-243" value="投料信息对比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-242">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-244">
+        <UserObject label="VC=OXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-244">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-242">
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
