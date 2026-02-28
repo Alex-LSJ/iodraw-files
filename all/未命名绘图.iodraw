@@ -230,7 +230,7 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-151" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-148">
           <mxGeometry x="130" y="77" width="10" height="20" as="geometry" />
         </mxCell>
-        <UserObject label="PP101=Mode" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-152">
+        <UserObject label="PP101=Mode and Para Set" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-152">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-147">
             <mxGeometry y="80" width="130" height="20" as="geometry" />
           </mxCell>
