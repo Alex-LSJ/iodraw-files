@@ -87,6 +87,11 @@
             <mxGeometry x="610" y="185" width="200" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="&lt;font color=&quot;#0000cc&quot;&gt;Real time process value&lt;/font&gt;" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-85">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;" vertex="1" parent="1">
+            <mxGeometry x="610" y="210" width="200" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
