@@ -35,7 +35,7 @@
         </UserObject>
         <UserObject label="Recipe Parameter set in Phase" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-41">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;" vertex="1" parent="1">
-            <mxGeometry x="350" y="250" width="80" height="20" as="geometry" />
+            <mxGeometry x="350" y="250" width="200" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
