@@ -30,7 +30,7 @@
         </mxCell>
         <UserObject label="XV101=30%，on" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-39">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="170" y="120" width="92" height="20" as="geometry" />
+            <mxGeometry x="170" y="120" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
