@@ -255,7 +255,7 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-164" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-163">
           <mxGeometry width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-165" value="定容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-164">
+        <mxCell id="3eiceg5xXqil0i54TMTS-165" value="最终定容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-164">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-166">
@@ -276,6 +276,9 @@
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-170" value="pH101&lt;font color=&quot;#000000&quot;&gt;≥&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;pH target&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt; or&amp;nbsp;&lt;/font&gt;pH101&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;≤&lt;/span&gt;&lt;font color=&quot;#009900&quot;&gt;pH target&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="3eiceg5xXqil0i54TMTS-169">
           <mxGeometry x="8" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-172" value="WT101&lt;font color=&quot;#000000&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;Wtarget&lt;/font&gt;*&lt;font color=&quot;#990099&quot;&gt;preWaterPerc&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="200" y="165" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
