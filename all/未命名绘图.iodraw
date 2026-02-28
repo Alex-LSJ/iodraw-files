@@ -279,7 +279,7 @@
           <mxGeometry x="8" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-172" value="WT101&lt;font color=&quot;#000000&quot;&gt;≥&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;Wtarget&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1039" width="150" height="30" as="geometry" />
+          <mxGeometry x="109" y="1039" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-173" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="130" y="938" width="220" height="100" as="geometry" />
@@ -354,6 +354,14 @@
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="3eiceg5xXqil0i54TMTS-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3eiceg5xXqil0i54TMTS-192" source="3eiceg5xXqil0i54TMTS-197" target="3eiceg5xXqil0i54TMTS-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-203" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-202">
+          <mxGeometry x="-0.1595" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="XV101=30%，open" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-197">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-192">
             <mxGeometry y="80" width="220" height="20" as="geometry" />
