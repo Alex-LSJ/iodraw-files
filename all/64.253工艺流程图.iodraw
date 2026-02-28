@@ -674,7 +674,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-319" value="&lt;font color=&quot;#000000&quot;&gt;人工确认结束&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="3eiceg5xXqil0i54TMTS-319" value="&lt;font color=&quot;#000000&quot;&gt;人工确认重测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="385" y="1618" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
