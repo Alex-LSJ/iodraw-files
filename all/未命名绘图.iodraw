@@ -19,13 +19,13 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-33" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="90" width="101" height="100" as="geometry" />
+          <mxGeometry x="340" y="90" width="128" height="93" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-34" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="3eiceg5xXqil0i54TMTS-33">
-          <mxGeometry width="50.5" height="100" as="geometry" />
+          <mxGeometry width="63.99999999999998" height="93" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-35" value="VC=XXX" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="3eiceg5xXqil0i54TMTS-33">
-          <mxGeometry x="50.5" y="5" width="45.45" height="90" as="geometry" />
+          <mxGeometry x="63.99999999999998" y="4.650000000000001" width="57.59999999999994" height="83.70000000000002" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
