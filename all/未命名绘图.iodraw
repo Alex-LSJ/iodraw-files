@@ -278,7 +278,7 @@
           <mxGeometry x="8" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-172" value="WT101&lt;font color=&quot;#000000&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;Wtarget&lt;/font&gt;*&lt;font color=&quot;#990099&quot;&gt;preWaterPerc&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="200" y="165" width="250" height="30" as="geometry" />
+          <mxGeometry x="340" y="900" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
