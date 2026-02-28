@@ -325,6 +325,12 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-186" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-165" target="3eiceg5xXqil0i54TMTS-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-187" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="150" y="313" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-188" value="&lt;font color=&quot;#000000&quot;&gt;Timer≥20s&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="3eiceg5xXqil0i54TMTS-187">
+          <mxGeometry width="250" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
