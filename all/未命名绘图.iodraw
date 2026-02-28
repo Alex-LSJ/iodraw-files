@@ -274,8 +274,8 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-169" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="235" y="780" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-170" value="&lt;font color=&quot;#000000&quot;&gt;Timer≥20s&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="3eiceg5xXqil0i54TMTS-169">
-          <mxGeometry width="250" height="30" as="geometry" />
+        <mxCell id="3eiceg5xXqil0i54TMTS-170" value="&lt;font color=&quot;#000000&quot;&gt;pH101&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="3eiceg5xXqil0i54TMTS-169">
+          <mxGeometry x="8" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
