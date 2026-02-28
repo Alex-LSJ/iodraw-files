@@ -613,7 +613,7 @@
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="XV103=30%，open" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-301">
+        <UserObject label="IT Mode as set" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-301">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-298">
             <mxGeometry y="80" width="110" height="20" as="geometry" />
           </mxCell>
