@@ -137,7 +137,7 @@
         </mxCell>
         <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-101">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-99">
-            <mxGeometry x="60" width="80" height="20" as="geometry" />
+            <mxGeometry x="60" y="20" width="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="XV101=0%，close" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-102">
@@ -183,7 +183,7 @@
             <mxGeometry y="80" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3eiceg5xXqil0i54TMTS-115" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-92" target="3eiceg5xXqil0i54TMTS-100">
+        <mxCell id="3eiceg5xXqil0i54TMTS-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-90" target="3eiceg5xXqil0i54TMTS-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
