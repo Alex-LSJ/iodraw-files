@@ -547,7 +547,7 @@
           <mxGeometry x="690" y="1450" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-279" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="440" y="1490" width="140" height="100" as="geometry" />
+          <mxGeometry x="280" y="1502" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-280" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-279">
           <mxGeometry width="140" height="100" as="geometry" />
@@ -555,7 +555,7 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-281" value="滤器冲洗准备工作确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-280">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="VC=XOX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-282">
+        <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-282">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-280">
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
