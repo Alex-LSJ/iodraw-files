@@ -263,11 +263,6 @@
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="PP101=Mode and Para Set" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-167">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-162">
-            <mxGeometry y="80" width="220" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="3eiceg5xXqil0i54TMTS-168" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-149" target="3eiceg5xXqil0i54TMTS-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
