@@ -104,7 +104,7 @@
           <mxGeometry x="660" y="250" width="24" height="25" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-70" value="User confirmed prompt HMI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="245" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="245" width="66" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
