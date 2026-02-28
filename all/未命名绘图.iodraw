@@ -149,7 +149,7 @@
           <mxGeometry x="240" y="447.5" width="24" height="25" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-120" value="User confirmed prompt HMI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="337" width="100" height="30" as="geometry" />
+          <mxGeometry x="700" y="328" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-90" value="投料信息合格确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="353" width="120" height="60" as="geometry" />
@@ -175,9 +175,6 @@
             <mxGeometry x="170" y="574" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3eiceg5xXqil0i54TMTS-121" value="投料信息合格确认" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="557" y="347" width="100" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
