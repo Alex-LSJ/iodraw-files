@@ -181,6 +181,9 @@
             <mxGeometry y="80" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="3eiceg5xXqil0i54TMTS-135" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="10" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
