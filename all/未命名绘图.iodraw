@@ -33,9 +33,6 @@
             <mxGeometry x="170" y="120" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3eiceg5xXqil0i54TMTS-40" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="220" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
