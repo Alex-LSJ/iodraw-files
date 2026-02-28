@@ -397,9 +397,6 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-223" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-206" target="3eiceg5xXqil0i54TMTS-220">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-226" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="773" y="1602" width="10" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-228" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-220" target="3eiceg5xXqil0i54TMTS-215">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -519,7 +516,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="3eiceg5xXqil0i54TMTS-270" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="633" y="1500" width="140" height="100" as="geometry" />
+          <mxGeometry x="631" y="1500" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-271" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-270">
           <mxGeometry width="140" height="100" as="geometry" />
