@@ -58,7 +58,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="3eiceg5xXqil0i54TMTS-77" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="292" width="140" height="100" as="geometry" />
+          <mxGeometry x="170" y="200" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-78" value="" style="group" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-77">
           <mxGeometry width="140" height="100" as="geometry" />
@@ -96,7 +96,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-88" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="180" y="210" width="140" height="100" as="geometry" />
+          <mxGeometry x="170" y="340" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-89" value="" style="group" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-88">
           <mxGeometry width="140" height="100" as="geometry" />
