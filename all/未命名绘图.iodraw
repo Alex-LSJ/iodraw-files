@@ -277,7 +277,7 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-170" value="pH101&lt;font color=&quot;#000000&quot;&gt;≥&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;pH target&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt; or&amp;nbsp;&lt;/font&gt;pH101&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;≤&lt;/span&gt;&lt;font color=&quot;#009900&quot;&gt;pH target&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="3eiceg5xXqil0i54TMTS-169">
           <mxGeometry x="8" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-172" value="WT101&lt;font color=&quot;#000000&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;Wtarget&lt;/font&gt;*&lt;font color=&quot;#990099&quot;&gt;preWaterPerc&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="3eiceg5xXqil0i54TMTS-172" value="WT101&lt;font color=&quot;#000000&quot;&gt;≥&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;Wtarget&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="340" y="900" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
