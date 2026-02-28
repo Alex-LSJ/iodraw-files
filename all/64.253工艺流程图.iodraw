@@ -622,7 +622,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-303" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="456" y="1640" width="140" height="100" as="geometry" />
+          <mxGeometry x="480" y="1640" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-304" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-303">
           <mxGeometry width="140" height="100" as="geometry" />
@@ -659,6 +659,9 @@
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-314" value="IT Result=PASS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="510" y="1753.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-315" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-299" target="3eiceg5xXqil0i54TMTS-305">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
