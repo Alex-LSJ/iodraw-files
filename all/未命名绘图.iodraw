@@ -406,7 +406,7 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-219" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-218">
           <mxGeometry width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-220" value="投料信息对比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-219">
+        <mxCell id="3eiceg5xXqil0i54TMTS-220" value="排气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-219">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-221">
