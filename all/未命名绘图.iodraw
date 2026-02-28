@@ -141,7 +141,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="3eiceg5xXqil0i54TMTS-131" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="345" width="140" height="100" as="geometry" />
+          <mxGeometry x="170" y="483" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-137" value="" style="group" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-131">
           <mxGeometry width="140" height="100" as="geometry" />
@@ -204,7 +204,7 @@
         </UserObject>
         <UserObject label="&lt;font color=&quot;#0000cc&quot;&gt;RPM101&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#990099&quot;&gt;MixingSpeed&lt;/font&gt;" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-143">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="1">
-            <mxGeometry x="180" y="573" width="130" height="20" as="geometry" />
+            <mxGeometry x="180" y="572" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
