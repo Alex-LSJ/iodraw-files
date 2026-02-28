@@ -485,11 +485,8 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-248" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-243" target="3eiceg5xXqil0i54TMTS-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-249" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="410" y="1560" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-250" value="WT101&lt;font color=&quot;#000000&quot;&gt;-T1≥&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;W bulk target&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="3eiceg5xXqil0i54TMTS-249">
-          <mxGeometry x="8" width="250" height="30" as="geometry" />
+        <mxCell id="3eiceg5xXqil0i54TMTS-250" value="WT101&lt;font color=&quot;#000000&quot;&gt;-T1≥&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;W bulk target&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="483" y="1360" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
