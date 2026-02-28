@@ -71,7 +71,7 @@
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="XV101=30%，open" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-81">
+        <UserObject label="XV101=0%，close" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-81">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;" vertex="1" parent="3eiceg5xXqil0i54TMTS-78">
             <mxGeometry y="80" width="110" height="20" as="geometry" />
           </mxCell>
