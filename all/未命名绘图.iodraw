@@ -25,7 +25,7 @@
           <mxGeometry x="343" y="90" width="99.99999999999996" height="72" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-35" value="VC=XXX" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="442.99999999999994" y="93.60000000000001" width="89.9999999999999" height="64.80000000000003" as="geometry" />
+          <mxGeometry x="442.99999999999994" y="93.60000000000001" width="86" height="64.80000000000003" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
