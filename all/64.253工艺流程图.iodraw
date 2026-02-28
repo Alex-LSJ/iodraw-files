@@ -486,6 +486,9 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-220" value="排气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-219">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3eiceg5xXqil0i54TMTS-219" source="3eiceg5xXqil0i54TMTS-221" target="3eiceg5xXqil0i54TMTS-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="VC=OXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-221">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-219">
             <mxGeometry x="60" width="80" height="20" as="geometry" />
@@ -497,6 +500,25 @@
         <UserObject label="PP102=&lt;font color=&quot;#990099&quot;&gt;VentSpeed&lt;/font&gt;，run" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-222">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-262">
             <mxGeometry y="80" width="150" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3eiceg5xXqil0i54TMTS-265" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="50" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-266" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-265">
+          <mxGeometry width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-267" value="预加水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-266">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-268">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-266">
+            <mxGeometry x="60" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="XV101=30%，open" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-269">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-266">
+            <mxGeometry y="80" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
