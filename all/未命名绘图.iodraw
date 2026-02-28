@@ -302,6 +302,28 @@
             <mxGeometry y="80" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="3eiceg5xXqil0i54TMTS-179" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="970" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-180" value="" style="group" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-179">
+          <mxGeometry x="40" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-181" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-180">
+          <mxGeometry width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-182" value="判断冷热水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-181">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-183">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-181">
+            <mxGeometry x="60" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="PP101=Mode and Para Set" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-184">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-179">
+            <mxGeometry y="80" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
