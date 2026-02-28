@@ -10,9 +10,6 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-12" value="VC=XXX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-13" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Valve Condition(VC)定义&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;XV00n=X(Close), O(Open)&lt;br&gt;XXX,代表XV001=X,代表XV001=X,XV003=O,&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Section 2.1&lt;br&gt;Section 2.2&lt;br&gt;Section 2.3&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="550" y="40" width="180" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-16" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Valve Condition(VC)定义&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="180" height="140.0000000000001" as="geometry">
             <mxRectangle x="300" y="180" width="70" height="30" as="alternateBounds" />
