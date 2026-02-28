@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-83" value="WT101&lt;font color=&quot;#000000&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;Wtarget&lt;/font&gt;*&lt;font color=&quot;#990099&quot;&gt;GP0XX(preWaterPerc)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="320" y="155" width="250" height="30" as="geometry" />
+          <mxGeometry x="240" y="156" width="250" height="30" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font color=&quot;#0000cc&quot;&gt;Real time process value&lt;/font&gt;" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-84">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;" vertex="1" parent="1">
