@@ -594,10 +594,10 @@
           <mxGeometry x="401" y="1520" width="24" height="25" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-295" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="295" y="1557.5" width="250" height="30" as="geometry" />
+          <mxGeometry x="296" y="1557.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-296" value="&lt;font color=&quot;#000000&quot;&gt;or &lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;Timer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="3eiceg5xXqil0i54TMTS-295">
-          <mxGeometry width="250" height="30" as="geometry" />
+          <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
