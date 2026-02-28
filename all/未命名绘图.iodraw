@@ -72,6 +72,9 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-56" value="Target" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="3eiceg5xXqil0i54TMTS-53">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-58" value="准备，Overwrite and Pare" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
