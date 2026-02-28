@@ -121,9 +121,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-96" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="190" y="300" width="250" height="30" as="geometry" />
+          <mxGeometry x="140" y="310" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-97" value="Timer≥20s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000CC;" vertex="1" parent="3eiceg5xXqil0i54TMTS-96">
+        <mxCell id="3eiceg5xXqil0i54TMTS-97" value="&lt;font color=&quot;#000000&quot;&gt;Timer≥20s&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000CC;" vertex="1" parent="3eiceg5xXqil0i54TMTS-96">
           <mxGeometry width="250" height="30" as="geometry" />
         </mxCell>
       </root>
