@@ -137,6 +137,11 @@
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="3eiceg5xXqil0i54TMTS-134" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3eiceg5xXqil0i54TMTS-110" source="3eiceg5xXqil0i54TMTS-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="XV101=0%，close" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-113">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-110">
             <mxGeometry y="80" width="110" height="20" as="geometry" />
@@ -179,7 +184,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="3eiceg5xXqil0i54TMTS-133" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="490" width="60" height="100" as="geometry" />
+          <mxGeometry x="410" y="570" width="10" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
