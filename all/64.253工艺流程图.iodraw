@@ -627,7 +627,7 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-304" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-303">
           <mxGeometry width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-305" value="测试结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-304">
+        <mxCell id="3eiceg5xXqil0i54TMTS-305" value="IT测试完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-304">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="VC=XXO" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-306">
