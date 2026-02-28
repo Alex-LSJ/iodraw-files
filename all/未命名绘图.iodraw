@@ -176,7 +176,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="3eiceg5xXqil0i54TMTS-121" value="User confirmed prompt HMI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="347" width="100" height="30" as="geometry" />
+          <mxGeometry x="719" y="347" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
