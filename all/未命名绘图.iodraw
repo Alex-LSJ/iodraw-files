@@ -173,14 +173,14 @@
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="3eiceg5xXqil0i54TMTS-133" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-99">
+          <mxGeometry x="130" y="67" width="10" height="20" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;font color=&quot;#0000cc&quot;&gt;RPM101&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;=&lt;/font&gt;&lt;font color=&quot;#990099&quot;&gt;MixingSpeed&lt;/font&gt;" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-102">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-131">
             <mxGeometry y="80" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3eiceg5xXqil0i54TMTS-133" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="570" width="10" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
