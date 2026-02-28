@@ -657,8 +657,8 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-313" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-305" target="3eiceg5xXqil0i54TMTS-310">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-314" value="WT101&lt;font color=&quot;#000000&quot;&gt;-T1≥&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;W bulk target&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="493" y="1370" width="150" height="30" as="geometry" />
+        <mxCell id="3eiceg5xXqil0i54TMTS-314" value="IT Result=PASS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="534" y="1753.5" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
