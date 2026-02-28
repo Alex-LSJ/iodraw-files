@@ -145,9 +145,6 @@
             <mxGeometry y="80" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3eiceg5xXqil0i54TMTS-103" value="投料信息对比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
