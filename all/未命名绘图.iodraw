@@ -454,16 +454,11 @@
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="XV101=0%，close" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-239">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-236">
-            <mxGeometry y="80" width="110" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="3eiceg5xXqil0i54TMTS-240" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-215" target="3eiceg5xXqil0i54TMTS-237">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-241" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="658" y="1370" width="140" height="100" as="geometry" />
+          <mxGeometry x="363" y="1340" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-242" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-241">
           <mxGeometry width="140" height="100" as="geometry" />
