@@ -219,8 +219,16 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-159" value="人工选择结束投料" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="620" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-147" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="170" y="671" width="140" height="100" as="geometry" />
+        <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-160">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="70" y="40" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3eiceg5xXqil0i54TMTS-161" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="134" y="671" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3eiceg5xXqil0i54TMTS-147" value="" style="group" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-161">
+          <mxGeometry x="36" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-148" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="3eiceg5xXqil0i54TMTS-147">
           <mxGeometry width="140" height="100" as="geometry" />
@@ -234,13 +242,8 @@
           </mxCell>
         </UserObject>
         <UserObject label="PP101=Mode and Para Set" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-152">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="1">
-            <mxGeometry x="155" y="751" width="220" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-160">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="1">
-            <mxGeometry x="70" y="40" width="80" height="20" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="3eiceg5xXqil0i54TMTS-161">
+            <mxGeometry y="80" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
