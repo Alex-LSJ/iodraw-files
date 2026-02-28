@@ -33,6 +33,11 @@
             <mxGeometry x="170" y="120" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="%name% Text" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-41">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="350" y="250" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
