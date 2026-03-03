@@ -688,11 +688,14 @@
             <mxGeometry x="60" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="XV101=30%，open" placeholders="1" name="Variable" id="uTpKhuvdVPc_yqJ0M8JH-6">
+        <UserObject label="XV101=0%，close" placeholders="1" name="Variable" id="uTpKhuvdVPc_yqJ0M8JH-6">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" vertex="1" parent="uTpKhuvdVPc_yqJ0M8JH-3">
             <mxGeometry y="80" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="uTpKhuvdVPc_yqJ0M8JH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3eiceg5xXqil0i54TMTS-79" target="uTpKhuvdVPc_yqJ0M8JH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
