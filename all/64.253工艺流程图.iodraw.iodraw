@@ -249,7 +249,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-169" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="216" y="636" width="250" height="30" as="geometry" />
+          <mxGeometry x="502" y="606" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-170" value="pH101&lt;font color=&quot;#000000&quot;&gt;≥&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;pH target&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt; or&amp;nbsp;&lt;/font&gt;pH101&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;≤&lt;/span&gt;&lt;font color=&quot;#009900&quot;&gt;pH target&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" parent="3eiceg5xXqil0i54TMTS-169" vertex="1">
           <mxGeometry x="8" width="250" height="30" as="geometry" />
@@ -716,7 +716,7 @@
           <mxGeometry x="450" y="636" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uTpKhuvdVPc_yqJ0M8JH-22" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="uTpKhuvdVPc_yqJ0M8JH-21">
-          <mxGeometry width="140" height="100" as="geometry" />
+          <mxGeometry x="2" y="-6" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uTpKhuvdVPc_yqJ0M8JH-23" value="pH调节完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uTpKhuvdVPc_yqJ0M8JH-22">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
