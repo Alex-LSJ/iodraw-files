@@ -492,25 +492,6 @@
             <mxGeometry y="80" width="150" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3eiceg5xXqil0i54TMTS-265" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="670" y="978.5" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-266" value="" style="group;rounded=1;" parent="3eiceg5xXqil0i54TMTS-265" vertex="1" connectable="0">
-          <mxGeometry width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-267" value="预加水" style="rounded=1;whiteSpace=wrap;html=1;" parent="3eiceg5xXqil0i54TMTS-266" vertex="1">
-          <mxGeometry y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="VC=XXX" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-268">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" parent="3eiceg5xXqil0i54TMTS-266" vertex="1">
-            <mxGeometry x="60" width="80" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="XV101=30%，open" placeholders="1" name="Variable" id="3eiceg5xXqil0i54TMTS-269">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#009900;rounded=1;" parent="3eiceg5xXqil0i54TMTS-266" vertex="1">
-            <mxGeometry y="80" width="110" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="3eiceg5xXqil0i54TMTS-270" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="640" y="1356" width="140" height="100" as="geometry" />
         </mxCell>
