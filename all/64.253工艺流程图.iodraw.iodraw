@@ -741,7 +741,10 @@
           <mxGeometry x="357" y="656" width="24" height="25" as="geometry" />
         </mxCell>
         <mxCell id="uTpKhuvdVPc_yqJ0M8JH-29" value="人工确认OK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="610" width="100" height="30" as="geometry" />
+          <mxGeometry x="330" y="636" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uTpKhuvdVPc_yqJ0M8JH-30" value="需要第二人复核的" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="383.5" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
