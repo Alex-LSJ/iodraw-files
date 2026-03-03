@@ -98,12 +98,6 @@
         <mxCell id="3eiceg5xXqil0i54TMTS-95" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3eiceg5xXqil0i54TMTS-79" target="3eiceg5xXqil0i54TMTS-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-96" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="140" y="303" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3eiceg5xXqil0i54TMTS-97" value="&lt;font color=&quot;#000000&quot;&gt;Timer≥20s&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" parent="3eiceg5xXqil0i54TMTS-96" vertex="1">
-          <mxGeometry width="250" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-104" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="630" y="1340" width="140" height="100" as="geometry" />
         </mxCell>
