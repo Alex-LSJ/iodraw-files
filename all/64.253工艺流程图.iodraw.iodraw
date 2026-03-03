@@ -753,7 +753,10 @@
           <mxGeometry x="367" y="1475" width="24" height="25" as="geometry" />
         </mxCell>
         <mxCell id="rWSc0AV0Ju-12VKCiBiW-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.floor_lamp;" vertex="1" parent="1">
-          <mxGeometry x="390" y="370" width="50" height="50" as="geometry" />
+          <mxGeometry x="667" y="471" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rWSc0AV0Ju-12VKCiBiW-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRevolving;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="360" width="80" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
