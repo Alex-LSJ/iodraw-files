@@ -719,7 +719,7 @@
         <mxCell id="uTpKhuvdVPc_yqJ0M8JH-22" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="uTpKhuvdVPc_yqJ0M8JH-21">
           <mxGeometry width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uTpKhuvdVPc_yqJ0M8JH-23" value="预加水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uTpKhuvdVPc_yqJ0M8JH-22">
+        <mxCell id="uTpKhuvdVPc_yqJ0M8JH-23" value="pH调节完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uTpKhuvdVPc_yqJ0M8JH-22">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="VC=XXX" placeholders="1" name="Variable" id="uTpKhuvdVPc_yqJ0M8JH-24">
