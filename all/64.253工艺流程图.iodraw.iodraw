@@ -675,12 +675,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uTpKhuvdVPc_yqJ0M8JH-2" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="180" y="50" width="140" height="100" as="geometry" />
+          <mxGeometry x="353" y="193" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uTpKhuvdVPc_yqJ0M8JH-3" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="uTpKhuvdVPc_yqJ0M8JH-2">
           <mxGeometry width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uTpKhuvdVPc_yqJ0M8JH-4" value="预加水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uTpKhuvdVPc_yqJ0M8JH-3">
+        <mxCell id="uTpKhuvdVPc_yqJ0M8JH-4" value="扫描投料标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uTpKhuvdVPc_yqJ0M8JH-3">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="VC=XXX" placeholders="1" name="Variable" id="uTpKhuvdVPc_yqJ0M8JH-5">
