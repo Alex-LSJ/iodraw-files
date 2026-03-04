@@ -692,7 +692,7 @@
           <mxGeometry x="366" y="445" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uTpKhuvdVPc_yqJ0M8JH-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="425" width="10" height="20" as="geometry" />
+          <mxGeometry x="690" y="445" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uTpKhuvdVPc_yqJ0M8JH-14" value="Modifitable during recipe running" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="420" width="100" height="30" as="geometry" />
