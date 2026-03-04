@@ -640,7 +640,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-319" value="&lt;font color=&quot;#000000&quot;&gt;人工确认重测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#0000CC;" parent="1" vertex="1">
-          <mxGeometry x="395" y="1474" width="120" height="30" as="geometry" />
+          <mxGeometry x="396" y="1474" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3eiceg5xXqil0i54TMTS-284" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3eiceg5xXqil0i54TMTS-272" target="3eiceg5xXqil0i54TMTS-289" edge="1">
           <mxGeometry relative="1" as="geometry">
